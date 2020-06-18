@@ -1,0 +1,3 @@
+# ESP8266xinzhiWeather
+使用ESP8266接入心知天气平台获取天气数据，串口打印
+需要Arduino扩展ESP8266和Blinker库文件
